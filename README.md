@@ -2,7 +2,7 @@
 
 ## Rails Forms
 
-Welcome to the world of Rails forms, which give users the ability to submit data
+Welcome to the world of Rails  forms, which give users the ability to submit data
 into form fields. This can be used for: creating new database records, building
 a contact form, integrating a search engine field, and pretty much every other
 aspect of the application that requires user input. When it comes to forms in
